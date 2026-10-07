@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.opcao{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    text-align: justify;
+    color:azure;
+    gap: 20px;
+}
+
+.secundario{
+    gap: 20px;
+    display: block;
+    padding: 10px;
+    color:azure;
+}
+
+.games{
+    background-color: rgb(50, 164, 205);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 40px;
+}
+
+
+
+#jogos{
+    background-color: rgb(0, 57, 103);
+}
+
+.card-jogos {
+    background-color: white;
+    max-width: 300px;
+    border-radius: 8px;
+}
+
+.card-jogos img {
+    max-width: 300px;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+.caixa-estrelas {
+    display: flex;
+    color: yellow;
+}
+
+.botao {
+    display: flex;
+    gap:10px;
+}

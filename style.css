@@ -11,6 +11,7 @@
     text-align: justify;
     color:azure;
     gap: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .secundario{
@@ -18,6 +19,7 @@
     display: block;
     padding: 10px;
     color:azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 
 .games{
